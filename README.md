@@ -52,6 +52,6 @@ Pull requests are welcome if you'd like to:
 
 ## 📬 Contact
 Made with ❤️ by Pradeep  
-📧 Reach out on [LinkedIn](https://www.linkedin.com/in/pradeep)
+📧 Reach out on [LinkedIn]([https://www.linkedin.com/in/pradeep](https://www.linkedin.com/in/pradeep-gupta-2b70b4331/))
 
 
